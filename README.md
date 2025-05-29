@@ -1,9 +1,11 @@
+
+
 <!-- Banner Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Azure Data Engineer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Dheeraj 👋</h1>
+<h1 align="center">Hi, I'm [Dheeraj] 👋</h1>
 <h3 align="center">Azure Data Engineer | Cloud Data Enthusiast | Automation Advocate</h3>
 
 <p align="center">
@@ -22,6 +24,9 @@
 - 🤖 **Passion:** Automating data workflows and enabling data-driven decisions.
 - 🌱 **Learning:** Exploring AI integration with Azure Data Services.
 - 🎤 **Speaker:** Regular presenter at data engineering meetups and Azure community events.
+- 📝 I regularly write articles on [Medium](https://medium.com/@tdheerajkr)
+- 💬 Ask me about **Azure Data Engineering**
+
 
 ---
 
@@ -40,43 +45,51 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Demo/Link |
-|---------|-------------|------------|-----------|
-| [Azure Data Pipeline Framework](https://github.com/yourusername/azure-data-pipeline-framework) | Modular, reusable framework for building robust Azure Data Factory pipelines. | Azure Data Factory, Python, ARM Templates | [Demo](https://github.com/yourusername/azure-data-pipeline-framework) |
-| [Real-time Data Lakehouse](https://github.com/yourusername/real-time-datalakehouse) | End-to-end lakehouse architecture using Synapse, Databricks, and Power BI. | Synapse, Databricks, Power BI, Spark | [Demo](https://github.com/yourusername/real-time-datalakehouse) |
-| [Automated Cost Optimization](https://github.com/yourusername/azure-cost-optimizer) | Scripts and dashboards for monitoring and optimizing Azure data costs. | Azure, Python, Power BI | [Demo](https://github.com/yourusername/azure-cost-optimizer) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=azure" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=azure" alt="GitHub Streak" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Serverless Data Pipeline on Azure](https://yourblog.com/serverless-azure-pipeline)
-- [Optimizing Synapse Analytics for Big Data](https://yourblog.com/synapse-optimization)
-- [Integrating AI with Azure Data Factory](https://yourblog.com/ai-azure-data-factory)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🤝 Let’s Connect!
 
 - 💬 Ask me about **Azure, Data Engineering, or Cloud Automation**
-- 📫 [your.email@domain.com](mailto:your.email@domain.com)
-- 🌐 [yourwebsite.com](https://yourwebsite.com)
+- 📫 [tdheerajkr@gmail.com](mailto:your.email@domain.com)
+
+
+<h3 align="left">Connect with me via:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dheerajt-profile/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://medium.com/@tdheerajkr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+</p>
+
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
