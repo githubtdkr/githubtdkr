@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/githubtdkr/githubtdkr/main/Black Gold Minimalist Elegant Business LinkedIn Banner.png" alt="Azure Data Engineer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm [Dheeraj] 👋</h1>
+<h1 align="center">Hi, I'm Dheeraj 👋</h1>
 <h3 align="center">Azure Data Engineer | Cloud Data Enthusiast | Certified Azure & Databricks Data Engineer</h3>
 
 <p align="center">
