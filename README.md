@@ -9,10 +9,9 @@
 <h3 align="center">Azure Data Engineer | Cloud Data Enthusiast | Automation Advocate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dheerajt-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tdheerajkr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/githubtdkr/Portfolio"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -30,6 +29,26 @@
 
 ---
 
+
+
+## 🏆 Certifications & Achievements
+
+| Certificate | Issuer | Date | Credential |
+|-------------|--------|------|------------|
+| **[Mircrosft Fabric Data Engineer Associate (DP-700)](https://credentials.databricks.com/3c6935e0-a94b-41b2-a259-713168d5f404#acc.eOJWGLi1)** | Microsoft | 06/2025 | [View Certificate](https://credentials.databricks.com/3c6935e0-a94b-41b2-a259-713168d5f404#acc.eOJWGLi1) |
+| **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/3c6935e0-a94b-41b2-a259-713168d5f404#acc.eOJWGLi1)** | Databricks | 05/2025 | [View Certificate](https://credentials.databricks.com/3c6935e0-a94b-41b2-a259-713168d5f404#acc.eOJWGLi1) |
+| **[Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/26991ee7-4a83-4651-8e8e-b085223cd82e#acc.rXkpTLWi)** | Databricks | 05/2025 | [View Certificate](https://credentials.databricks.com/26991ee7-4a83-4651-8e8e-b085223cd82e#acc.rXkpTLWi) |
+| **[Mircosoft Certified : Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/dheerajkumarreddythummaluru-5276/credentials/certification/azure-data-fundamentals?wt.mc_id=certnurture_eml1_email_wwl&tab=credentials-tab)** | Microsoft | 03/2025 | [View Certificate](https://learn.microsoft.com/en-us/users/dheerajkumarreddythummaluru-5276/credentials/certification/azure-data-fundamentals?wt.mc_id=certnurture_eml1_email_wwl&tab=credentials-tab) |
+| **[Mircrosft Fabric Data Engineer Associate(DP-700)](https://www.udemy.com/certificate/UC-d66c7572-0636-4321-beaa-c0fb8776a188/)** | Udemy | 05/2025 | [View Certificate](https://www.udemy.com/certificate/UC-d66c7572-0636-4321-beaa-c0fb8776a188/) |
+| **[Databricks Certified Data Engineer Associate](https://www.udemy.com/certificate/UC-6a9d6ca8-4a23-48c6-838b-7f9e95d5a652/)** | Udemy | 04/2025 | [View Certificate](https://www.udemy.com/certificate/UC-6a9d6ca8-4a23-48c6-838b-7f9e95d5a652/) |
+| **[Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/0e7ee5d7-c499-4591-b970-1e88a8a01ccd#acc.p0YCPQtM)** | Databricks | 04/2025 | [View Certificate](https://credentials.databricks.com/0e7ee5d7-c499-4591-b970-1e88a8a01ccd#acc.p0YCPQtM) |
+| **[Agile Scrum Essentials](https://techedge.techcanvass.co/Certificate/MTcyOTI1LTQ3/DheerajT)** | Techcanvass | 01/2025 | [View Certificate](https://techedge.techcanvass.co/Certificate/MTcyOTI1LTQ3/DheerajT) |
+| **[Agile Foundations](https://www.linkedin.com/learning/certificates/f59c3c2959825c4745640ce5bf83e296c6cb18c57934078ab9f22e9cbd90ed8d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BTpbHGvCFR%2BuxcNf9a4pdBA%3D%3D)** | LinkedIn Learning | 01/2025 | [View Certificate](https://www.linkedin.com/learning/certificates/f59c3c2959825c4745640ce5bf83e296c6cb18c57934078ab9f22e9cbd90ed8d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BTpbHGvCFR%2BuxcNf9a4pdBA%3D%3D) |
+
+
+
+
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -88,8 +107,13 @@
 
 
 ---
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=githubtdkr&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
+
 
