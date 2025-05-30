@@ -25,6 +25,7 @@
 - 🎤 **Speaker:** Regular presenter at data engineering meetups and Azure community events.
 - 📝 I regularly write articles on [Medium](https://medium.com/@tdheerajkr)
 - 💬 Ask me about **Azure Data Engineering**
+- 🌐 Portfolio: [Link](https://github.com/githubtdkr/Portfolio/)
 
 
 ---
@@ -46,6 +47,24 @@
 | **[Agile Foundations](https://www.linkedin.com/learning/certificates/f59c3c2959825c4745640ce5bf83e296c6cb18c57934078ab9f22e9cbd90ed8d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BTpbHGvCFR%2BuxcNf9a4pdBA%3D%3D)** | LinkedIn Learning | 01/2025 | [View Certificate](https://www.linkedin.com/learning/certificates/f59c3c2959825c4745640ce5bf83e296c6cb18c57934078ab9f22e9cbd90ed8d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BTpbHGvCFR%2BuxcNf9a4pdBA%3D%3D) |
 
 
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an Innovative Project](https://medium.com/@yourusername/...)
+- [Top 5 Tips for GitHub Profiles](https://medium.com/@yourusername/...)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githubtdkr&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubtdkr" />
+</p>
 
 
 ---
