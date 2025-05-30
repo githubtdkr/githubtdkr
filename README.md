@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi, I'm [Dheeraj] 👋</h1>
-<h3 align="center">Azure Data Engineer | Cloud Data Enthusiast | Automation Advocate</h3>
+<h3 align="center">Azure Data Engineer | Cloud Data Enthusiast | Certified Azure & Databricks Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dheerajt-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
