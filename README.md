@@ -2,7 +2,7 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/githubtdkr/githubtdkr/main/Black Gold Minimalist Elegant Business LinkedIn Banner(1).png" alt="Azure Data Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/githubtdkr/githubtdkr/main/Black Gold Minimalist Elegant Business LinkedIn Banner (1)" alt="Azure Data Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Dheeraj 👋</h1>
